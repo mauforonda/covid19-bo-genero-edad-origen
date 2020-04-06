@@ -1,0 +1,4 @@
+Recopilación manual de datos publicados en informes diarios del Ministerio de Salud de Bolivia. 
+
+El ministerio publica diariamente un reporte sobre covid19 en [[https://snis.minsalud.gob.bo/images/vigilancia_2018/REPORTE_EPIDEMIOLOGICO.pdf][este enlace]]. Además de información publicada en [[https://www.boliviasegura.gob.bo/][boliviasegura]], el medio oficial del gobierno sobre la crisis epidemiológica, este reporte incluye segmentaciones de casos por sexo, edad y origen. Transcribo estos datos diariamente y los publico en formato abierto en este repositorio.
+
