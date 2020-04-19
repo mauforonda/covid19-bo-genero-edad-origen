@@ -1,8 +1,8 @@
 Datos de casos diarios de covid19 en Bolivia por género, edad y origen desde el 5 de abril de 2020.
 
-En este repositorio archivo datos publicados por el Ministerio de Salud en su reporte diario de covid19 y transcritos manualmente en documentos de formato abierto. Estos reportes son publicados en el siguiente enlace: https://snis.minsalud.gob.bo/images/vigilancia_2018/REPORTE_EPIDEMIOLOGICO.pdf
+En este repositorio archivo datos publicados por el Ministerio de Salud en su reporte diario de covid19. Estos reportes son publicados en el siguiente enlace: https://snis.minsalud.gob.bo/images/vigilancia_2018/REPORTE_EPIDEMIOLOGICO.pdf
 
-Los reportes del ministerio presentan inconsistencias. Por ejemplo, instancias en algunas categorías misteriosamente se reducen:
+Los reportes del ministerio presentan inconsistencias. Por ejemplo, algunas categorías misteriosamente se reducen:
 
 |      Fecha | File                  |     Columna |
 |------------+-----------------------+-------------|
